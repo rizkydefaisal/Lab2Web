@@ -1,7 +1,7 @@
 # Lab2Web
 <h1>Nama  : Rizky Faisal</h1>
-<h2>Kelas : TI.19.A3</h2>
-<h3>NIM   : 311910539</h3>
+<h1>Kelas : TI.19.A3</h1>
+<h1>NIM   : 311910539</h1>
 
 1. langkah pertama yaitu membuat dokumen HTML sesuai dengan langkah-langkah praktikum 
 2. kemudian menambahkan deklarasi CSS internal pada bagian head dokumen sebelumnya, menghasilkan perubahan pada format tulisan menjadi center dengan warna sesuai yang di tambahkan pada deklarasi CSS internal tersebut
