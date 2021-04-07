@@ -9,5 +9,5 @@
 <br>3. selanjutnya pada tahap ketiga ini menambahkan deklarasi inline CSS pada tag p berfungsi untuk memberikan warna pada bagian paragraf</br>
 <br>4. langkah selanjutnya menambahkan style CSS eksternal untuk memberikan warna pada bagian head dengan menambahkan tag link untuk merujuk file CSS yang sudah dibuat pada bagian head</br>
 <br>5. selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file style eksternal, memberikan perubahan pada warna intro h1</br>
-<br>6. semua coding dan hasil perubahan disetiap langkah sudah disertakan screenshotnya</br>
+<br>6. semua coding dan hasil perubahan disetiap langkah sudah disertakan screenshootnya</br>
 </p>
